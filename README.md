@@ -35,6 +35,10 @@ List of possible business/engineering problems that are applied in real-world bu
 | -                      | Internal Platform | - | - |
 | -                      | DX (Developer Experience) | - | - |
 
+## AI Agent Development
+
+In progress...
+
 ## DevOps
 
 In progress...
