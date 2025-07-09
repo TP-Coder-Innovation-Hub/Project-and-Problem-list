@@ -7,6 +7,33 @@ List of possible business/engineering problems that are applied in real-world bu
 |-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
 | User account management | Utility         | Most applications require user account management; it is a common requirement so it is a good idea to explore more about user data | -       |
 | Item review feature     | Utility         | Item review feature is a very common for marketplaces.                                                                             | -       |
+| -                      | Fintech | - | - |
+| -                      | HR (Human Resources) | - | - |
+| -                      | Education | - | - |
+| -                      | Entertainment | - | - |
+| -                      | Tourism | - | - |
+| -                      | Marketing | - | - |
+| -                      | Sports and Fitness | - | - |
+| -                      | Dating | - | - |
+| -                      | Social Media | - | - |
+| -                      | Event organization | - | - |
+| -                      | Travel | - | - |
+| -                      | IoT (Internet of Things) | - | - |
+| -                      | Climate | - | - |
+| -                      | ESG (Environmental, Social, and Governance) | - | - |
+| -                      | Food and beverage | - | - |
+| -                      | Material | - | - |
+| -                      | Healthcare | - | - |
+| -                      | Beauty | - | - |
+| -                      | E-commerce | - | - |
+| -                      | Real Estate | - | - |
+| -                      | Logistics | - | - |
+| -                      | Traffic | - | - |
+| -                      | Mobility | - | - |
+| -                      | Transportation | - | - |
+| -                      | Smart Office | - | - |
+| -                      | Internal Platform | - | - |
+| -                      | DX (Developer Experience) | - | - |
 
 ## DevOps
 
