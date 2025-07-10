@@ -10,7 +10,7 @@ List of possible business/engineering problems that are applied in real-world bu
 | Digital wallet system | FinTech | Core feature for mobile payments, peer-to-peer transfers, and contactless transactions essential for modern financial services | - |
 | Automated recruitment pipeline | HR (Human Resources) | Streamlines hiring process (candidate screening, scheduling, assessment workflows, etc.) | - |
 | Payroll and benefits management | HR (Human Resources) | Core business function requiring accurate calculations, compliance tracking, and integration with accounting systems | - |
-| -                      | Education | - | - |
+| Simple E-learning Platform | Education | Creates accessible and scalable learning experiences, enabling remote education and continuous professional development. | - |
 | -                      | Entertainment | - | - |
 | -                      | Tourism | - | - |
 | -                      | Marketing | - | - |
