@@ -40,6 +40,12 @@ List of possible business/engineering problems that are applied in real-world bu
 
 In progress...
 
+## Chatbot
+
+| Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
+|-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
+| Device warranty claim chatbot | Consumer | Enables customers to easily submit warranty claims, track claim status, and receive updates through a conversational interface | - |
+
 ## DevOps
 
 In progress...
