@@ -8,9 +8,9 @@ List of possible business/engineering problems that are applied in real-world bu
 |-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
 | User account management | Utility         | Most applications require user account management; it is a common requirement so it is a good idea to explore more about user data | -       |
 | Item review feature     | Utility         | Item review feature is a very common for marketplaces.                                                                             | -       |
-| Email communication system | Utility | Essential for marketing campaigns, transactional emails, and customer engagement through automated email workflows | - |
-| Push notification system | Utility | Critical for mobile app engagement, real-time alerts, and user retention through targeted messaging | - |
-| In-app notification system | Utility | Enables real-time user communication within applications (like Facebook notifications) for better user experience | - |
+| Email communication system | Customer Communication | Essential for marketing campaigns, transactional emails, and customer engagement through automated email workflows | - |
+| Push notification system | Customer Communication | Critical for mobile app engagement, real-time alerts, and user retention through targeted messaging | - |
+| In-app notification system | Customer Communication | Enables real-time user communication within applications (like Facebook notifications) for better user experience | - |
 | Digital wallet system | FinTech | Core feature for mobile payments, peer-to-peer transfers, and contactless transactions essential for modern financial services | - |
 | Automated recruitment pipeline | HR (Human Resources) | Streamlines hiring process (candidate screening, scheduling, assessment workflows, etc.) | - |
 | Payroll and benefits management | HR (Human Resources) | Core business function requiring accurate calculations, compliance tracking, and integration with accounting systems | - |
