@@ -52,7 +52,10 @@ In progress...
 
 ## DevOps
 
-In progress...
+| Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
+|-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
+| CI/CD pipeline automation | Infrastructure | Streamlines software development lifecycle with automated testing, building, and deployment processes, reducing manual errors and accelerating release cycles | - |
+| Static code analysis integration | Infrastructure | Advanced CI enhancement that automatically detects code quality issues, security vulnerabilities, and technical debt before deployment, improving code maintainability | - |
 
 ## Cloud Engineer
 
