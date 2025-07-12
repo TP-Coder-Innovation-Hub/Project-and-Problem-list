@@ -6,7 +6,7 @@ List of possible business/engineering problems that are applied in real-world bu
 
 | Idea Name | Business Domain | Why This Matters | Details |
 |-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
-| Provide your own idea | Category | The reason why this idea matters | Nothing much. Just fork this repo and updated to yours |
+| Provide your own idea | Category | The reason why this idea matters | Nothing much. Just fork this repo and updated to yours - [Freestyle template](https://github.com/TP-Coder-Innovation-Hub/freestyle-practice-idea) |
 
 ## Software/Product Engineer
 
