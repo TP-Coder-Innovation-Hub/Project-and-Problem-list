@@ -2,6 +2,12 @@
 
 List of possible business/engineering problems that are applied in real-world business
 
+## Freestyle
+
+| Idea Name | Business Domain | Why This Matters | Details |
+|-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
+| Provide your own idea | Category | The reason why this idea matters | Nothing much. Just fork this repo and updated to yours |
+
 ## Software/Product Engineer
 
 | Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
