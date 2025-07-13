@@ -36,7 +36,7 @@ List of possible business/engineering problems that are applied in real-world bu
 | -                      | Material | - | - |
 | -                      | Healthcare | - | - |
 | -                      | Beauty | - | - |
-| Inventory/stock management system | E-commerce | Essential for tracking product availability, managing supply chains, and preventing stockouts or overstock situations in retail operations | - |
+| Inventory/stock management system | E-commerce | Essential for tracking product availability, managing supply chains, and preventing stockouts or overstock situations in retail operations | [Inventory/stock management system](https://github.com/TP-Coder-Innovation-Hub/Inventory-mgmt-system-challenge) |
 | -                      | Real Estate | - | - |
 | -                      | Logistics | - | - |
 | -                      | Traffic | - | - |
