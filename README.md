@@ -69,7 +69,9 @@ In progress...
 
 ## Data Engineer
 
-In progress...
+| Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
+|-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
+| Batch ETL Pipeline for Daily Sales and Inventory Analysis | Retail Analytics | Retail businesses need to process end-of-day sales data to understand product performance, track inventory levels, and identify buying patterns. This daily batch processing enables strategic decisions like restocking, pricing adjustments, and seasonal planning that directly impact profitability and customer satisfaction. | - |
 
 ## Mobile Developer
 
