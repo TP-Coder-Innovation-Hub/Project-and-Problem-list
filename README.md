@@ -32,7 +32,7 @@ List of possible business/engineering problems that are applied in real-world bu
 | -                      | IoT (Internet of Things) | - | - |
 | -                      | Climate | - | - |
 | -                      | ESG (Environmental, Social, and Governance) | - | - |
-| Restaurant proximity search                      | Food and beverage | Location-based services are crucial for food delivery, restaurant discovery, and local business recommendations, requiring geospatial algorithms and real-time data processing | - |
+| Restaurant proximity search                      | Food and beverage | Location-based services are crucial for food delivery, restaurant discovery, and local business recommendations, requiring geospatial algorithms and real-time data processing | [Restaurant proximity search](https://github.com/TP-Coder-Innovation-Hub/restaurant-proximity-search-challenge) |
 | -                      | Material | - | - |
 | -                      | Healthcare | - | - |
 | -                      | Beauty | - | - |
