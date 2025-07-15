@@ -54,7 +54,7 @@ In progress...
 
 | Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
 |-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
-| Device warranty claim chatbot | Consumer | Enables customers to easily submit warranty claims, track claim status, and receive updates through a conversational interface | - |
+| Device warranty claim chatbot | Consumer | Enables customers to easily submit warranty claims, track claim status, and receive updates through a conversational interface | [Device warranty claim chatbot](https://github.com/TP-Coder-Innovation-Hub/device-warranty-claim-chatbot-challenge) |
 
 ## DevOps
 
