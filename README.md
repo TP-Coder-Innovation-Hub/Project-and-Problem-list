@@ -14,7 +14,7 @@ List of possible business/engineering problems that are applied in real-world bu
 |-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
 | User account management | Utility         | Most applications require user account management; it is a common requirement so it is a good idea to explore more about user data | -       |
 | Item review feature     | Utility         | Item review feature is a very common for marketplaces.                                                                             | [Item review feature](https://github.com/TP-Coder-Innovation-Hub/item-review-feature-challenge) |
-| Email communication system | Customer Communication | Essential for marketing campaigns, transactional emails, and customer engagement through automated email workflows | - |
+| Email communication system | Customer Communication | Essential for marketing campaigns, transactional emails, and customer engagement through automated email workflows | [Email delivery feature](https://github.com/TP-Coder-Innovation-Hub/email-delivery-feature-challenge) |
 | Push notification system | Customer Communication | Critical for mobile app engagement, real-time alerts, and user retention through targeted messaging | - |
 | In-app notification system | Customer Communication | Enables real-time user communication within applications (like Facebook notifications) for better user experience | - |
 | Digital wallet system | FinTech | Core feature for mobile payments, peer-to-peer transfers, and contactless transactions essential for modern financial services | - |
