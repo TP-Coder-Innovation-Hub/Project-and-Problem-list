@@ -13,7 +13,7 @@ List of possible business/engineering problems that are applied in real-world bu
 | Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
 |-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
 | User account management | Utility         | Most applications require user account management; it is a common requirement so it is a good idea to explore more about user data | -       |
-| Item review feature     | Utility         | Item review feature is a very common for marketplaces.                                                                             | -       |
+| Item review feature     | Utility         | Item review feature is a very common for marketplaces.                                                                             | [Item review feature](https://github.com/TP-Coder-Innovation-Hub/item-review-feature-challenge) |
 | Email communication system | Customer Communication | Essential for marketing campaigns, transactional emails, and customer engagement through automated email workflows | - |
 | Push notification system | Customer Communication | Critical for mobile app engagement, real-time alerts, and user retention through targeted messaging | - |
 | In-app notification system | Customer Communication | Enables real-time user communication within applications (like Facebook notifications) for better user experience | - |
