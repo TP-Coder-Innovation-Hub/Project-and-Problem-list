@@ -61,6 +61,7 @@ List of possible business/engineering problems that are applied in real-world bu
 | Static code analysis integration | Infrastructure | Advanced CI enhancement that automatically detects code quality issues, security vulnerabilities, and technical debt before deployment, improving code maintainability | - |
 | 3-tier Kubernetes deployment | Infrastructure | Teaches container orchestration fundamentals with frontend, backend, and database tiers in Kubernetes for scalable application architecture | - |
 | ArgoCD GitOps setup | Infrastructure | Implements GitOps workflow for automated deployment, configuration management, and continuous delivery using declarative Git-based approach | - |
+| The simple of full observability stack setup | Infrastructure | Critical for production systems: implements logging, monitoring, and distributed tracing for comprehensive system visibility | - |
 
 ## Cloud Engineer
 
