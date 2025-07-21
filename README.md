@@ -18,6 +18,7 @@ List of possible business/engineering problems that are applied in real-world bu
 | Push notification system | Customer Communication | Critical for mobile app engagement, real-time alerts, and user retention through targeted messaging | - |
 | In-app notification system | Customer Communication | Enables real-time user communication within applications (like Facebook notifications) for better user experience | - |
 | Digital wallet system | FinTech | Core feature for mobile payments, peer-to-peer transfers, and contactless transactions essential for modern financial services | - |
+| Cashback processor | FinTech | Automates cashback calculations, tracks customer rewards, and processes payouts, enhancing customer loyalty and spending engagement | - |
 | Automated recruitment pipeline | HR (Human Resources) | Streamlines hiring process (candidate screening, scheduling, assessment workflows, etc.) | - |
 | Payroll and benefits management | HR (Human Resources) | Core business function requiring accurate calculations, compliance tracking, and integration with accounting systems | - |
 | Simple E-learning Platform | Education | Creates accessible and scalable learning experiences, enabling remote education and continuous professional development. | [Simple E-learning Platform](https://github.com/TP-Coder-Innovation-Hub/simple-e-learning-platform-challenge) |
