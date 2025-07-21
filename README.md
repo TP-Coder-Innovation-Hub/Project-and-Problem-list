@@ -32,16 +32,14 @@ List of possible business/engineering problems that are applied in real-world bu
 | Device monitoring dashboard | IoT (Internet of Things) | Real-time monitoring of connected devices, sensor data visualization, and predictive maintenance alerts for operational efficiency | - |
 | Carbon footprint tracker | Climate | Measures and tracks environmental impact across operations, enabling organizations to meet sustainability goals and regulatory requirements | - |
 | Restaurant proximity search                      | Food and beverage | Location-based services are crucial for food delivery, restaurant discovery, and local business recommendations, requiring geospatial algorithms and real-time data processing | [Restaurant proximity search](https://github.com/TP-Coder-Innovation-Hub/restaurant-proximity-search-challenge) |
-| -                      | Engineering | - | - |
-| -                      | Healthcare | - | - |
+| Asset management system | Engineering | Critical for tracking and maintaining infrastructure assets, equipment lifecycle management, and predictive maintenance scheduling | - |
+| Patient management system | Healthcare | Core functionality for managing patient records, appointment scheduling, treatment tracking, and medical history management | - |
+| Medical inventory tracker | Healthcare | Critical for tracking medical supplies, equipment maintenance, expiration dates, and ensuring adequate stock levels for patient care | - |
+| Telemedicine platform | Healthcare | Enables remote patient consultations, digital health monitoring, and accessible healthcare delivery | - |
 | Inventory/stock management system | E-commerce | Essential for tracking product availability, managing supply chains, and preventing stockouts or overstock situations in retail operations | [Inventory/stock management system](https://github.com/TP-Coder-Innovation-Hub/Inventory-mgmt-system-challenge) |
-| -                      | Real Estate | - | - |
-| -                      | Logistics | - | - |
-| -                      | Traffic | - | - |
-| -                      | Mobility | - | - |
-| -                      | Transportation | - | - |
-| -                      | Smart Office | - | - |
-| -                      | Internal Platform | - | - |
+| Property listing platform | Real Estate | Essential for managing property listings, buyer/seller matching, virtual tours, and transaction management in real estate business | - |
+| Warehouse management system | Logistics | Core functionality for inventory tracking, order fulfillment, space optimization, and warehouse operations management | - |
+| Fleet management system | Transportation | Critical for tracking vehicle locations, maintenance schedules, fuel consumption, and driver performance in transportation companies | - |
 
 ## AI Agent Development
 
