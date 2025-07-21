@@ -22,20 +22,18 @@ List of possible business/engineering problems that are applied in real-world bu
 | Automated recruitment pipeline | HR (Human Resources) | Streamlines hiring process (candidate screening, scheduling, assessment workflows, etc.) | - |
 | Payroll and benefits management | HR (Human Resources) | Core business function requiring accurate calculations, compliance tracking, and integration with accounting systems | - |
 | Simple E-learning Platform | Education | Creates accessible and scalable learning experiences, enabling remote education and continuous professional development. | [Simple E-learning Platform](https://github.com/TP-Coder-Innovation-Hub/simple-e-learning-platform-challenge) |
-| -                      | Entertainment | - | - |
-| -                      | Travel & Tourism | - | - |
-| -                      | Marketing | - | - |
-| -                      | Sports and Fitness | - | - |
-| -                      | Dating | - | - |
-| -                      | Social Media | - | - |
-| -                      | Event organization | - | - |
-| -                      | IoT (Internet of Things) | - | - |
-| -                      | Climate | - | - |
-| -                      | ESG (Environmental, Social, and Governance) | - | - |
+| Streaming analytics system | Entertainment | Critical for understanding viewer behavior, content performance, and engagement metrics to optimize content strategy and revenue | - |
+| Booking management system | Travel & Tourism | Essential for handling reservations, availability tracking, pricing optimization, and customer journey management in hospitality industry | - |
+| Campaign performance tracker | Marketing | Enables measurement of marketing ROI, A/B testing results, customer acquisition costs, and attribution analysis for data-driven marketing decisions | - |
+| Workout tracking system | Sports and Fitness | Tracks user progress, exercise patterns, and health metrics to provide personalized fitness recommendations and maintain user engagement | - |
+| Matching algorithm system | Dating | Core feature that uses user preferences, behavior patterns, and compatibility metrics to connect potential matches and drive user engagement | - |
+| Content moderation system | Social Media | Essential for maintaining platform safety, detecting harmful content, and ensuring community guidelines compliance at scale | - |
+| Attendee management system | Event organization | Manages registration, ticketing, check-ins, and attendee communication for seamless event execution and analytics | - |
+| Device monitoring dashboard | IoT (Internet of Things) | Real-time monitoring of connected devices, sensor data visualization, and predictive maintenance alerts for operational efficiency | - |
+| Carbon footprint tracker | Climate | Measures and tracks environmental impact across operations, enabling organizations to meet sustainability goals and regulatory requirements | - |
 | Restaurant proximity search                      | Food and beverage | Location-based services are crucial for food delivery, restaurant discovery, and local business recommendations, requiring geospatial algorithms and real-time data processing | [Restaurant proximity search](https://github.com/TP-Coder-Innovation-Hub/restaurant-proximity-search-challenge) |
-| -                      | Material | - | - |
+| -                      | Engineering | - | - |
 | -                      | Healthcare | - | - |
-| -                      | Beauty | - | - |
 | Inventory/stock management system | E-commerce | Essential for tracking product availability, managing supply chains, and preventing stockouts or overstock situations in retail operations | [Inventory/stock management system](https://github.com/TP-Coder-Innovation-Hub/Inventory-mgmt-system-challenge) |
 | -                      | Real Estate | - | - |
 | -                      | Logistics | - | - |
@@ -44,7 +42,6 @@ List of possible business/engineering problems that are applied in real-world bu
 | -                      | Transportation | - | - |
 | -                      | Smart Office | - | - |
 | -                      | Internal Platform | - | - |
-| -                      | DX (Developer Experience) | - | - |
 
 ## AI Agent Development
 
