@@ -75,6 +75,8 @@ List of possible business/engineering problems that are applied in real-world bu
 | Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
 |-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
 | Batch ETL Pipeline for Daily Sales and Inventory Analysis | Retail Analytics | Retail businesses need to process end-of-day sales data to understand product performance, track inventory levels, and identify buying patterns. This daily batch processing enables strategic decisions like restocking, pricing adjustments, and seasonal planning that directly impact profitability and customer satisfaction. | - |
+| Real-time Fraud Detection Streaming Pipeline | FinTech | Financial institutions need to process millions of transactions per second to detect fraudulent patterns immediately. This streaming architecture prevents financial losses by analyzing payment patterns, user behavior, and transaction anomalies in real-time, protecting both customers and business revenue. | - |
+| Customer Data Lake ELT Pipeline | E-commerce | Modern data-driven companies need to Extract data from multiple sources (CRM, web analytics, mobile apps), Load it into a data lake, then Transform it for analytics. This ELT approach enables faster data ingestion, flexible schema evolution, and supports both structured reporting and ML model training for personalized customer experiences. | - |
 
 ## Mobile Developer
 
