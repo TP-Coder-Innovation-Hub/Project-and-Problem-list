@@ -43,7 +43,9 @@ List of possible business/engineering problems that are applied in real-world bu
 
 ## AI Agent Development
 
-In progress...
+| Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
+|-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
+| Personal task scheduler bot | Productivity | Automates task scheduling and reminders using AI to understand natural language requests and manage calendars efficiently | - |
 
 ## Chatbot
 
@@ -57,10 +59,15 @@ In progress...
 |-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
 | CI/CD pipeline automation | Infrastructure | Streamlines software development lifecycle with automated testing, building, and deployment processes, reducing manual errors and accelerating release cycles | - |
 | Static code analysis integration | Infrastructure | Advanced CI enhancement that automatically detects code quality issues, security vulnerabilities, and technical debt before deployment, improving code maintainability | - |
+| 3-tier Kubernetes deployment | Infrastructure | Teaches container orchestration fundamentals with frontend, backend, and database tiers in Kubernetes for scalable application architecture | - |
+| ArgoCD GitOps setup | Infrastructure | Implements GitOps workflow for automated deployment, configuration management, and continuous delivery using declarative Git-based approach | - |
 
 ## Cloud Engineer
 
-In progress...
+| Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
+|-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
+| Multi-tier web app deployment with load balancer | Infrastructure | Teaches core cloud concepts: VPC setup, subnet configuration, load balancing, auto-scaling, and DNS management in a real production-like environment | - |
+| Infrastructure as Code with Terraform | Infrastructure | Essential for cloud automation, version control of infrastructure, and repeatable deployments across multiple environments | - |
 
 ## Data Engineer
 
@@ -76,12 +83,19 @@ In progress...
 
 ## Security Engineer
 
-In progress...
+| Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
+|-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
+| Basic vulnerability scanner | Cybersecurity | Teaches security fundamentals like port scanning, service detection, and common vulnerability identification for web applications | - |
 
 ## ML/AI Engineer
 
-In progress...
+| Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
+|-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
+| Customer sentiment analysis system | E-commerce | Teaches fundamental ML concepts: data preprocessing, feature engineering, model training, and deployment for real business insights | - |
 
 ## Software Engineer in Test / QA Engineer
 
-In progress...
+| Idea Name               | Business Domain | Why This Matters                                                                                                                   | Details |
+|-------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------|---------|
+| Automated API testing framework | Software Testing | Teaches test automation fundamentals: API testing, test data management, reporting, and CI/CD integration for quality assurance | - |
+| End-to-End web automation with test cases | Software Testing | Critical for validating complete user workflows, cross-browser compatibility, and regression testing in web applications | - |
